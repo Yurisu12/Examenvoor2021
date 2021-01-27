@@ -1,0 +1,1 @@
+Ik heb alleen geen css en verbinding met database, want ik weet nog niet echt hoe je dat moet doen.
