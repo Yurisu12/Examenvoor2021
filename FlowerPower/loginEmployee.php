@@ -9,7 +9,7 @@
     </div>
 </head>
 <body>
-    <form class="login" action="loginCustomer.php" method="post">
+    <form class="login" action="loginEmployee.php" method="post">
         <input type="text" name="id" placeholder="6 digit id" maxlength="6" require><br>
         <input type="password" name="password" placeholder="Password" require><br>
         <input type="submit" name="submit" value="Log in" ><br>
